@@ -3,15 +3,16 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-  margin: 0;
+  margin: 100vh;
   color: white;
 }
 
 :root {
-  font-size: 10px;
+  font-size: 62.5%;
 }
 
 body,
